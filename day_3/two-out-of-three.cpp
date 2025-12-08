@@ -23,3 +23,4 @@ public:
     return ans; 
     }
 };
+// time ocmplexity O(N)
